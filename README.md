@@ -4,7 +4,7 @@
 
 - 📫 How to reach me:  
      e-mail: guitrofino@gmail.com  
-     phone: +55 (19) 99988-0606  
+     phone: +33 7 49 18 55 00 
 
 <!---
 tr0fin0/tr0fin0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
