@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @tr0fin0
+- 🌎 Valinhos, São Paulo - Brazil 
 - 💡 Software Development for Hardware Applications
 - 📫 e-mail: guitrofino@gmail.com
