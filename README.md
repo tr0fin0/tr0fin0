@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @tr0fin0
-
-- 📫 How to reach me:  
-     e-mail: guitrofino@gmail.com  
+- 💡 Software Development for Hardware Applications
+- 📫 e-mail: guitrofino@gmail.com
